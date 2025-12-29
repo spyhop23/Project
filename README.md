@@ -10,5 +10,5 @@ We reproduce and compare baseline methods from prior work, then improve performa
 
 ## Problem Statement
 Customer churn has a direct impact on revenue and retention cost. The goal of this project is to identify customers likely to churn early enough to support targeted retention strategies.
-Objective: Given customer features (e.g., usage patterns, transactions, demographics), predict whether the customer will churn.
+**Objective**: Given customer features (e.g., usage patterns, transactions, demographics), predict whether the customer will churn.
 
